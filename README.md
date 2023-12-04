@@ -51,8 +51,8 @@ Once the Streamlit app is running, you can interact with the environment through
 Contributions to enhance this project are welcome. Please adhere to the following steps for contributing:
 
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -am 'Add some feature'`).
+2. Create a new branch (`git checkout -b').
+3. Make your changes and commit them (`git commit -am 'new feature').
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
