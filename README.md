@@ -1,5 +1,7 @@
 # Galaxy Exploration Environment
 
+This is my project for the AGI hackathon on Dec 3 2023
+
 Explore a simulated universe in this interactive space exploration environment. Built using Python, gym, and Streamlit, this project allows you to control an AI agent as it navigates through a procedurally generated cosmos, encountering planets, resources, and hazards along its journey.
 
 ## Features
